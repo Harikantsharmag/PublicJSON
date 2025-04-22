@@ -1,702 +1,290 @@
 [
   {
-    "id": 1,
-    "category": "Productivity",
-    "title": "Use a Timer",
-    "details": "Try the Pomodoro method: 25 minutes focus, 5 minutes break.",
-    "icon": "\u23f0"
+    "category": "Mental Health",
+    "title": "Practice Gratitude",
+    "details": "Write down 3 things you're grateful for daily to build a positive mindset.",
+    "icon": "🧠"
   },
   {
-    "id": 2,
+    "category": "Mental Health",
+    "title": "Limit Social Media",
+    "details": "Reduce screen time to avoid comparison and information overload.",
+    "icon": "📵"
+  },
+  {
+    "category": "Mental Health",
+    "title": "Seek Support",
+    "details": "Talk to a friend, mentor, or counselor when overwhelmed.",
+    "icon": "🤝"
+  },
+  {
     "category": "Nutrition",
-    "title": "Add Fiber",
-    "details": "Eat more vegetables, fruits, and whole grains.",
-    "icon": "\ud83e\udd57"
+    "title": "Eat a Balanced Breakfast",
+    "details": "Start your day with protein, fiber, and healthy fats.",
+    "icon": "🥣"
   },
   {
-    "id": 3,
+    "category": "Nutrition",
+    "title": "Limit Processed Foods",
+    "details": "Choose fresh fruits, vegetables, and whole grains.",
+    "icon": "🥦"
+  },
+  {
+    "category": "Nutrition",
+    "title": "Mindful Eating",
+    "details": "Eat slowly and avoid distractions to improve digestion.",
+    "icon": "🍽️"
+  },
+  {
+    "category": "Physical Activity",
+    "title": "Walk 10,000 Steps",
+    "details": "Aim for 10,000 steps daily to maintain cardiovascular health.",
+    "icon": "🚶"
+  },
+  {
+    "category": "Physical Activity",
+    "title": "Stretch Regularly",
+    "details": "Stretching improves flexibility and reduces injury risk.",
+    "icon": "🧘"
+  },
+  {
+    "category": "Physical Activity",
+    "title": "Try Strength Training",
+    "details": "Build muscle mass and bone density by lifting weights.",
+    "icon": "🏋️"
+  },
+  {
     "category": "Sleep",
-    "title": "Limit Screen Time",
-    "details": "Avoid screens at least 30 minutes before bed.",
-    "icon": "\ud83d\udecc"
+    "title": "Avoid Caffeine Late",
+    "details": "Cut off caffeine intake 6 hours before bed for better sleep.",
+    "icon": "☕"
   },
   {
-    "id": 4,
+    "category": "Sleep",
+    "title": "Keep a Sleep Routine",
+    "details": "Go to bed and wake up at the same time daily.",
+    "icon": "🛏️"
+  },
+  {
+    "category": "Sleep",
+    "title": "Create a Dark Room",
+    "details": "Use blackout curtains or a sleep mask for better rest.",
+    "icon": "🌙"
+  },
+  {
+    "category": "Hydration",
+    "title": "Track Your Water Intake",
+    "details": "Use an app or bottle with markers to track hydration.",
+    "icon": "💧"
+  },
+  {
+    "category": "Hydration",
+    "title": "Drink Before Meals",
+    "details": "Drinking water 30 minutes before meals aids digestion.",
+    "icon": "🥤"
+  },
+  {
+    "category": "Hydration",
+    "title": "Eat Water-Rich Foods",
+    "details": "Include cucumber, watermelon, and celery in your diet.",
+    "icon": "🥒"
+  },
+  {
+    "category": "Productivity",
+    "title": "Use the Pomodoro Method",
+    "details": "Focus for 25 minutes, then take a 5-minute break.",
+    "icon": "⏱️"
+  },
+  {
+    "category": "Productivity",
+    "title": "Plan Tomorrow Today",
+    "details": "Spend 5 minutes each evening planning the next day.",
+    "icon": "📅"
+  },
+  {
+    "category": "Productivity",
+    "title": "Batch Similar Tasks",
+    "details": "Group similar tasks to stay focused and efficient.",
+    "icon": "📋"
+  },
+  {
     "category": "Stress Relief",
-    "title": "Take Nature Breaks",
-    "details": "Spend time outdoors to calm your mind.",
-    "icon": "\ud83e\uddd8"
-  },
-  {
-    "id": 5,
-    "category": "Digital Health",
-    "title": "Limit Screen Time",
-    "details": "Set daily screen time limits.",
-    "icon": "\ud83d\udcf5"
-  },
-  {
-    "id": 6,
-    "category": "Digital Health",
-    "title": "Limit Screen Time",
-    "details": "Set daily screen time limits.",
-    "icon": "\ud83d\udcf5"
-  },
-  {
-    "id": 7,
-    "category": "Productivity",
-    "title": "Declutter Your Desk",
-    "details": "A clean workspace boosts focus.",
-    "icon": "\u23f0"
-  },
-  {
-    "id": 8,
-    "category": "Nutrition",
-    "title": "Add Fiber",
-    "details": "Eat more vegetables, fruits, and whole grains.",
-    "icon": "\ud83e\udd57"
-  },
-  {
-    "id": 9,
-    "category": "Hydration",
-    "title": "Carry a Bottle",
-    "details": "Always keep water nearby to sip throughout the day.",
-    "icon": "\ud83d\udca7"
-  },
-  {
-    "id": 10,
-    "category": "Productivity",
-    "title": "Use a Timer",
-    "details": "Try the Pomodoro method: 25 minutes focus, 5 minutes break.",
-    "icon": "\u23f0"
-  },
-  {
-    "id": 11,
-    "category": "Physical Activity",
-    "title": "Do Bodyweight Exercises",
-    "details": "Push-ups, squats, and planks can be done anywhere.",
-    "icon": "\ud83c\udfcb\ufe0f"
-  },
-  {
-    "id": 12,
-    "category": "Physical Activity",
-    "title": "Do Bodyweight Exercises",
-    "details": "Push-ups, squats, and planks can be done anywhere.",
-    "icon": "\ud83c\udfcb\ufe0f"
-  },
-  {
-    "id": 13,
-    "category": "Productivity",
-    "title": "Prioritize Tasks",
-    "details": "Start your day with your most important task.",
-    "icon": "\u23f0"
-  },
-  {
-    "id": 14,
-    "category": "Physical Activity",
-    "title": "Walk Daily",
-    "details": "Aim for at least 30 minutes of walking per day.",
-    "icon": "\ud83c\udfcb\ufe0f"
-  },
-  {
-    "id": 15,
-    "category": "Productivity",
-    "title": "Use a Timer",
-    "details": "Try the Pomodoro method: 25 minutes focus, 5 minutes break.",
-    "icon": "\u23f0"
-  },
-  {
-    "id": 16,
-    "category": "Nutrition",
-    "title": "Add Fiber",
-    "details": "Eat more vegetables, fruits, and whole grains.",
-    "icon": "\ud83e\udd57"
-  },
-  {
-    "id": 17,
-    "category": "Social Wellness",
-    "title": "Say Thank You",
-    "details": "Gratitude strengthens relationships.",
-    "icon": "\ud83e\udd1d"
-  },
-  {
-    "id": 18,
-    "category": "Nutrition",
-    "title": "Eat Whole Foods",
-    "details": "Choose foods that are minimally processed for better health.",
-    "icon": "\ud83e\udd57"
-  },
-  {
-    "id": 19,
-    "category": "Self-Care",
-    "title": "Schedule Me-Time",
-    "details": "Treat self-care as a daily appointment.",
-    "icon": "\ud83d\udec1"
-  },
-  {
-    "id": 20,
-    "category": "Mental Health",
-    "title": "Practice Gratitude",
-    "details": "Write down 3 things you're grateful for each day to boost your mood.",
-    "icon": "\ud83e\udde0"
-  },
-  {
-    "id": 21,
-    "category": "Mental Health",
-    "title": "Practice Gratitude",
-    "details": "Write down 3 things you're grateful for each day to boost your mood.",
-    "icon": "\ud83e\udde0"
-  },
-  {
-    "id": 22,
-    "category": "Hydration",
-    "title": "Flavor with Fruits",
-    "details": "Add lemon or berries for a refreshing taste.",
-    "icon": "\ud83d\udca7"
-  },
-  {
-    "id": 23,
-    "category": "Hydration",
-    "title": "Carry a Bottle",
-    "details": "Always keep water nearby to sip throughout the day.",
-    "icon": "\ud83d\udca7"
-  },
-  {
-    "id": 24,
-    "category": "Self-Care",
-    "title": "Light a Scented Candle",
-    "details": "Aromatherapy helps set a relaxing mood.",
-    "icon": "\ud83d\udec1"
-  },
-  {
-    "id": 25,
-    "category": "Hydration",
-    "title": "Carry a Bottle",
-    "details": "Always keep water nearby to sip throughout the day.",
-    "icon": "\ud83d\udca7"
-  },
-  {
-    "id": 26,
-    "category": "Nutrition",
-    "title": "Eat Whole Foods",
-    "details": "Choose foods that are minimally processed for better health.",
-    "icon": "\ud83e\udd57"
-  },
-  {
-    "id": 27,
-    "category": "Nutrition",
-    "title": "Limit Sugar",
-    "details": "Cut back on sugary drinks and snacks.",
-    "icon": "\ud83e\udd57"
-  },
-  {
-    "id": 28,
-    "category": "Physical Activity",
-    "title": "Stretch in the Morning",
-    "details": "Wake up your body with light stretching.",
-    "icon": "\ud83c\udfcb\ufe0f"
-  },
-  {
-    "id": 29,
-    "category": "Physical Activity",
-    "title": "Stretch in the Morning",
-    "details": "Wake up your body with light stretching.",
-    "icon": "\ud83c\udfcb\ufe0f"
-  },
-  {
-    "id": 30,
-    "category": "Sleep",
-    "title": "Limit Screen Time",
-    "details": "Avoid screens at least 30 minutes before bed.",
-    "icon": "\ud83d\udecc"
-  },
-  {
-    "id": 31,
-    "category": "Digital Health",
-    "title": "Use Blue Light Filters",
-    "details": "Reduce eye strain with night mode.",
-    "icon": "\ud83d\udcf5"
-  },
-  {
-    "id": 32,
-    "category": "Hydration",
-    "title": "Flavor with Fruits",
-    "details": "Add lemon or berries for a refreshing taste.",
-    "icon": "\ud83d\udca7"
-  },
-  {
-    "id": 33,
-    "category": "Physical Activity",
-    "title": "Stretch in the Morning",
-    "details": "Wake up your body with light stretching.",
-    "icon": "\ud83c\udfcb\ufe0f"
-  },
-  {
-    "id": 34,
-    "category": "Sleep",
-    "title": "Cool Down Your Room",
-    "details": "Keep your bedroom cool to fall asleep faster.",
-    "icon": "\ud83d\udecc"
-  },
-  {
-    "id": 35,
-    "category": "Stress Relief",
-    "title": "Listen to Calming Music",
-    "details": "Music can help regulate emotions.",
-    "icon": "\ud83e\uddd8"
-  },
-  {
-    "id": 36,
-    "category": "Mental Health",
-    "title": "Limit Negative Inputs",
-    "details": "Unfollow accounts that make you feel bad on social media.",
-    "icon": "\ud83e\udde0"
-  },
-  {
-    "id": 37,
-    "category": "Nutrition",
-    "title": "Eat Whole Foods",
-    "details": "Choose foods that are minimally processed for better health.",
-    "icon": "\ud83e\udd57"
-  },
-  {
-    "id": 38,
-    "category": "Mental Health",
-    "title": "Practice Gratitude",
-    "details": "Write down 3 things you're grateful for each day to boost your mood.",
-    "icon": "\ud83e\udde0"
-  },
-  {
-    "id": 39,
-    "category": "Self-Care",
-    "title": "Take a Warm Bath",
-    "details": "A bath can soothe muscles and nerves.",
-    "icon": "\ud83d\udec1"
-  },
-  {
-    "id": 40,
-    "category": "Mental Health",
-    "title": "Limit Negative Inputs",
-    "details": "Unfollow accounts that make you feel bad on social media.",
-    "icon": "\ud83e\udde0"
-  },
-  {
-    "id": 41,
-    "category": "Digital Health",
-    "title": "Limit Screen Time",
-    "details": "Set daily screen time limits.",
-    "icon": "\ud83d\udcf5"
-  },
-  {
-    "id": 42,
-    "category": "Digital Health",
-    "title": "Turn Off Notifications",
-    "details": "Prevent constant interruptions.",
-    "icon": "\ud83d\udcf5"
-  },
-  {
-    "id": 43,
-    "category": "Mental Health",
-    "title": "Practice Gratitude",
-    "details": "Write down 3 things you're grateful for each day to boost your mood.",
-    "icon": "\ud83e\udde0"
-  },
-  {
-    "id": 44,
-    "category": "Mental Health",
     "title": "Breathe Deeply",
-    "details": "Take 5 deep breaths to reset your nervous system.",
-    "icon": "\ud83e\udde0"
+    "details": "Inhale for 4 seconds, hold for 7, exhale for 8.",
+    "icon": "🌬️"
   },
   {
-    "id": 45,
-    "category": "Physical Activity",
-    "title": "Stretch in the Morning",
-    "details": "Wake up your body with light stretching.",
-    "icon": "\ud83c\udfcb\ufe0f"
-  },
-  {
-    "id": 46,
-    "category": "Productivity",
-    "title": "Use a Timer",
-    "details": "Try the Pomodoro method: 25 minutes focus, 5 minutes break.",
-    "icon": "\u23f0"
-  },
-  {
-    "id": 47,
-    "category": "Digital Health",
-    "title": "Use Blue Light Filters",
-    "details": "Reduce eye strain with night mode.",
-    "icon": "\ud83d\udcf5"
-  },
-  {
-    "id": 48,
-    "category": "Hydration",
-    "title": "Carry a Bottle",
-    "details": "Always keep water nearby to sip throughout the day.",
-    "icon": "\ud83d\udca7"
-  },
-  {
-    "id": 49,
     "category": "Stress Relief",
-    "title": "Listen to Calming Music",
-    "details": "Music can help regulate emotions.",
-    "icon": "\ud83e\uddd8"
+    "title": "Listen to Music",
+    "details": "Play calming music to soothe your mind.",
+    "icon": "🎶"
   },
   {
-    "id": 50,
-    "category": "Social Wellness",
-    "title": "Say Thank You",
-    "details": "Gratitude strengthens relationships.",
-    "icon": "\ud83e\udd1d"
+    "category": "Stress Relief",
+    "title": "Take a Nature Walk",
+    "details": "Spend time in nature to reduce cortisol levels.",
+    "icon": "🌳"
   },
   {
-    "id": 51,
-    "category": "Hydration",
-    "title": "Start Your Day with Water",
-    "details": "Drink a glass of water first thing in the morning.",
-    "icon": "\ud83d\udca7"
-  },
-  {
-    "id": 52,
-    "category": "Nutrition",
-    "title": "Add Fiber",
-    "details": "Eat more vegetables, fruits, and whole grains.",
-    "icon": "\ud83e\udd57"
-  },
-  {
-    "id": 53,
-    "category": "Mental Health",
-    "title": "Limit Negative Inputs",
-    "details": "Unfollow accounts that make you feel bad on social media.",
-    "icon": "\ud83e\udde0"
-  },
-  {
-    "id": 54,
-    "category": "Physical Activity",
-    "title": "Do Bodyweight Exercises",
-    "details": "Push-ups, squats, and planks can be done anywhere.",
-    "icon": "\ud83c\udfcb\ufe0f"
-  },
-  {
-    "id": 55,
-    "category": "Social Wellness",
-    "title": "Plan a Meetup",
-    "details": "Spend quality time with loved ones.",
-    "icon": "\ud83e\udd1d"
-  },
-  {
-    "id": 56,
-    "category": "Nutrition",
-    "title": "Add Fiber",
-    "details": "Eat more vegetables, fruits, and whole grains.",
-    "icon": "\ud83e\udd57"
-  },
-  {
-    "id": 57,
     "category": "Self-Care",
-    "title": "Take a Warm Bath",
-    "details": "A bath can soothe muscles and nerves.",
-    "icon": "\ud83d\udec1"
+    "title": "Have a Screen-Free Hour",
+    "details": "Unplug for an hour daily to reset your focus.",
+    "icon": "📴"
   },
   {
-    "id": 58,
-    "category": "Physical Activity",
-    "title": "Walk Daily",
-    "details": "Aim for at least 30 minutes of walking per day.",
-    "icon": "\ud83c\udfcb\ufe0f"
+    "category": "Self-Care",
+    "title": "Practice a Hobby",
+    "details": "Do something creative or relaxing you enjoy.",
+    "icon": "🎨"
   },
   {
-    "id": 59,
-    "category": "Nutrition",
-    "title": "Add Fiber",
-    "details": "Eat more vegetables, fruits, and whole grains.",
-    "icon": "\ud83e\udd57"
+    "category": "Self-Care",
+    "title": "Do a 10-Minute Cleanup",
+    "details": "Tidy your space for mental clarity.",
+    "icon": "🧹"
   },
   {
-    "id": 60,
-    "category": "Sleep",
-    "title": "Cool Down Your Room",
-    "details": "Keep your bedroom cool to fall asleep faster.",
-    "icon": "\ud83d\udecc"
-  },
-  {
-    "id": 61,
-    "category": "Stress Relief",
-    "title": "Take Nature Breaks",
-    "details": "Spend time outdoors to calm your mind.",
-    "icon": "\ud83e\uddd8"
-  },
-  {
-    "id": 62,
     "category": "Social Wellness",
-    "title": "Say Thank You",
-    "details": "Gratitude strengthens relationships.",
-    "icon": "\ud83e\udd1d"
+    "title": "Express Appreciation",
+    "details": "Tell someone you appreciate them today.",
+    "icon": "💬"
   },
   {
-    "id": 63,
     "category": "Social Wellness",
-    "title": "Plan a Meetup",
-    "details": "Spend quality time with loved ones.",
-    "icon": "\ud83e\udd1d"
+    "title": "Connect Face-to-Face",
+    "details": "Make time to talk in person with loved ones.",
+    "icon": "👥"
   },
   {
-    "id": 64,
-    "category": "Physical Activity",
-    "title": "Walk Daily",
-    "details": "Aim for at least 30 minutes of walking per day.",
-    "icon": "\ud83c\udfcb\ufe0f"
+    "category": "Social Wellness",
+    "title": "Volunteer for a Cause",
+    "details": "Helping others boosts your own happiness.",
+    "icon": "🤲"
   },
   {
-    "id": 65,
-    "category": "Mental Health",
-    "title": "Breathe Deeply",
-    "details": "Take 5 deep breaths to reset your nervous system.",
-    "icon": "\ud83e\udde0"
+    "category": "Digital Health",
+    "title": "Use Do Not Disturb Mode",
+    "details": "Limit notifications to stay present.",
+    "icon": "🔕"
   },
   {
-    "id": 66,
-    "category": "Nutrition",
-    "title": "Add Fiber",
-    "details": "Eat more vegetables, fruits, and whole grains.",
-    "icon": "\ud83e\udd57"
-  },
-  {
-    "id": 67,
     "category": "Digital Health",
     "title": "Limit Screen Time",
-    "details": "Set daily screen time limits.",
-    "icon": "\ud83d\udcf5"
+    "details": "Track your usage and set app limits.",
+    "icon": "📱"
   },
   {
-    "id": 68,
-    "category": "Productivity",
-    "title": "Prioritize Tasks",
-    "details": "Start your day with your most important task.",
-    "icon": "\u23f0"
-  },
-  {
-    "id": 69,
-    "category": "Social Wellness",
-    "title": "Plan a Meetup",
-    "details": "Spend quality time with loved ones.",
-    "icon": "\ud83e\udd1d"
-  },
-  {
-    "id": 70,
-    "category": "Physical Activity",
-    "title": "Do Bodyweight Exercises",
-    "details": "Push-ups, squats, and planks can be done anywhere.",
-    "icon": "\ud83c\udfcb\ufe0f"
-  },
-  {
-    "id": 71,
-    "category": "Hydration",
-    "title": "Start Your Day with Water",
-    "details": "Drink a glass of water first thing in the morning.",
-    "icon": "\ud83d\udca7"
-  },
-  {
-    "id": 72,
-    "category": "Social Wellness",
-    "title": "Say Thank You",
-    "details": "Gratitude strengthens relationships.",
-    "icon": "\ud83e\udd1d"
-  },
-  {
-    "id": 73,
-    "category": "Self-Care",
-    "title": "Schedule Me-Time",
-    "details": "Treat self-care as a daily appointment.",
-    "icon": "\ud83d\udec1"
-  },
-  {
-    "id": 74,
-    "category": "Productivity",
-    "title": "Declutter Your Desk",
-    "details": "A clean workspace boosts focus.",
-    "icon": "\u23f0"
-  },
-  {
-    "id": 75,
     "category": "Digital Health",
-    "title": "Limit Screen Time",
-    "details": "Set daily screen time limits.",
-    "icon": "\ud83d\udcf5"
+    "title": "Unfollow Negativity",
+    "details": "Mute or unfollow accounts that drain your energy.",
+    "icon": "🚫"
   },
   {
-    "id": 76,
-    "category": "Mental Health",
-    "title": "Breathe Deeply",
-    "details": "Take 5 deep breaths to reset your nervous system.",
-    "icon": "\ud83e\udde0"
+    "category": "Mindfulness",
+    "title": "Body Scan Meditation",
+    "details": "Mentally scan your body to release tension.",
+    "icon": "🧘"
   },
   {
-    "id": 77,
-    "category": "Mental Health",
-    "title": "Limit Negative Inputs",
-    "details": "Unfollow accounts that make you feel bad on social media.",
-    "icon": "\ud83e\udde0"
+    "category": "Mindfulness",
+    "title": "Focus on One Task",
+    "details": "Avoid multitasking and be present in the moment.",
+    "icon": "🎯"
   },
   {
-    "id": 78,
-    "category": "Self-Care",
-    "title": "Schedule Me-Time",
-    "details": "Treat self-care as a daily appointment.",
-    "icon": "\ud83d\udec1"
+    "category": "Mindfulness",
+    "title": "Mindful Walking",
+    "details": "Walk slowly, noticing each step and breath.",
+    "icon": "🚶‍♂️"
   },
   {
-    "id": 79,
-    "category": "Nutrition",
-    "title": "Add Fiber",
-    "details": "Eat more vegetables, fruits, and whole grains.",
-    "icon": "\ud83e\udd57"
+    "category": "Environmental Wellness",
+    "title": "Recycle Regularly",
+    "details": "Reduce waste by separating recyclables.",
+    "icon": "♻️"
   },
   {
-    "id": 80,
-    "category": "Productivity",
-    "title": "Use a Timer",
-    "details": "Try the Pomodoro method: 25 minutes focus, 5 minutes break.",
-    "icon": "\u23f0"
+    "category": "Environmental Wellness",
+    "title": "Reduce Plastic Use",
+    "details": "Carry reusable bags and bottles.",
+    "icon": "🛍️"
   },
   {
-    "id": 81,
-    "category": "Digital Health",
-    "title": "Limit Screen Time",
-    "details": "Set daily screen time limits.",
-    "icon": "\ud83d\udcf5"
+    "category": "Environmental Wellness",
+    "title": "Plant Something",
+    "details": "Greenery improves air quality and mood.",
+    "icon": "🪴"
   },
   {
-    "id": 82,
-    "category": "Stress Relief",
-    "title": "Listen to Calming Music",
-    "details": "Music can help regulate emotions.",
-    "icon": "\ud83e\uddd8"
+    "category": "Work-Life Balance",
+    "title": "Take a Lunch Break",
+    "details": "Step away from your desk to recharge.",
+    "icon": "🍱"
   },
   {
-    "id": 83,
-    "category": "Stress Relief",
-    "title": "Take Nature Breaks",
-    "details": "Spend time outdoors to calm your mind.",
-    "icon": "\ud83e\uddd8"
+    "category": "Work-Life Balance",
+    "title": "Set Work Boundaries",
+    "details": "Establish clear start and end times for work.",
+    "icon": "🧭"
   },
   {
-    "id": 84,
-    "category": "Nutrition",
-    "title": "Eat Whole Foods",
-    "details": "Choose foods that are minimally processed for better health.",
-    "icon": "\ud83e\udd57"
+    "category": "Work-Life Balance",
+    "title": "Use Vacation Days",
+    "details": "Time off is essential for long-term productivity.",
+    "icon": "🏖️"
   },
   {
-    "id": 85,
-    "category": "Hydration",
-    "title": "Carry a Bottle",
-    "details": "Always keep water nearby to sip throughout the day.",
-    "icon": "\ud83d\udca7"
+    "category": "Financial Wellness",
+    "title": "Track Your Spending",
+    "details": "Use an app or journal to manage expenses.",
+    "icon": "💸"
   },
   {
-    "id": 86,
-    "category": "Nutrition",
-    "title": "Eat Whole Foods",
-    "details": "Choose foods that are minimally processed for better health.",
-    "icon": "\ud83e\udd57"
+    "category": "Financial Wellness",
+    "title": "Create a Budget",
+    "details": "Plan monthly income and expenses.",
+    "icon": "📊"
   },
   {
-    "id": 87,
-    "category": "Physical Activity",
-    "title": "Stretch in the Morning",
-    "details": "Wake up your body with light stretching.",
-    "icon": "\ud83c\udfcb\ufe0f"
+    "category": "Financial Wellness",
+    "title": "Save Automatically",
+    "details": "Set up auto-transfers to a savings account.",
+    "icon": "🏦"
   },
   {
-    "id": 88,
-    "category": "Sleep",
-    "title": "Limit Screen Time",
-    "details": "Avoid screens at least 30 minutes before bed.",
-    "icon": "\ud83d\udecc"
+    "category": "Emotional Wellness",
+    "title": "Name Your Feelings",
+    "details": "Labeling emotions helps you process them.",
+    "icon": "📘"
   },
   {
-    "id": 89,
-    "category": "Mental Health",
-    "title": "Limit Negative Inputs",
-    "details": "Unfollow accounts that make you feel bad on social media.",
-    "icon": "\ud83e\udde0"
+    "category": "Emotional Wellness",
+    "title": "Practice Forgiveness",
+    "details": "Letting go of resentment frees your energy.",
+    "icon": "🙏"
   },
   {
-    "id": 90,
-    "category": "Self-Care",
-    "title": "Schedule Me-Time",
-    "details": "Treat self-care as a daily appointment.",
-    "icon": "\ud83d\udec1"
+    "category": "Emotional Wellness",
+    "title": "Laugh Often",
+    "details": "Laughter boosts immunity and mood.",
+    "icon": "😂"
   },
   {
-    "id": 91,
-    "category": "Nutrition",
-    "title": "Add Fiber",
-    "details": "Eat more vegetables, fruits, and whole grains.",
-    "icon": "\ud83e\udd57"
+    "category": "Learning & Growth",
+    "title": "Read 10 Pages a Day",
+    "details": "Expand your mind through daily reading.",
+    "icon": "📖"
   },
   {
-    "id": 92,
-    "category": "Social Wellness",
-    "title": "Plan a Meetup",
-    "details": "Spend quality time with loved ones.",
-    "icon": "\ud83e\udd1d"
+    "category": "Learning & Growth",
+    "title": "Take a Free Course",
+    "details": "Learn something new online each month.",
+    "icon": "💡"
   },
   {
-    "id": 93,
-    "category": "Stress Relief",
-    "title": "Take Nature Breaks",
-    "details": "Spend time outdoors to calm your mind.",
-    "icon": "\ud83e\uddd8"
-  },
-  {
-    "id": 94,
-    "category": "Hydration",
-    "title": "Carry a Bottle",
-    "details": "Always keep water nearby to sip throughout the day.",
-    "icon": "\ud83d\udca7"
-  },
-  {
-    "id": 95,
-    "category": "Stress Relief",
-    "title": "Listen to Calming Music",
-    "details": "Music can help regulate emotions.",
-    "icon": "\ud83e\uddd8"
-  },
-  {
-    "id": 96,
-    "category": "Sleep",
-    "title": "Set a Bedtime",
-    "details": "Going to bed at the same time improves sleep quality.",
-    "icon": "\ud83d\udecc"
-  },
-  {
-    "id": 97,
-    "category": "Stress Relief",
-    "title": "Listen to Calming Music",
-    "details": "Music can help regulate emotions.",
-    "icon": "\ud83e\uddd8"
-  },
-  {
-    "id": 98,
-    "category": "Physical Activity",
-    "title": "Walk Daily",
-    "details": "Aim for at least 30 minutes of walking per day.",
-    "icon": "\ud83c\udfcb\ufe0f"
-  },
-  {
-    "id": 99,
-    "category": "Stress Relief",
-    "title": "Listen to Calming Music",
-    "details": "Music can help regulate emotions.",
-    "icon": "\ud83e\uddd8"
-  },
-  {
-    "id": 100,
-    "category": "Sleep",
-    "title": "Set a Bedtime",
-    "details": "Going to bed at the same time improves sleep quality.",
-    "icon": "\ud83d\udecc"
+    "category": "Learning & Growth",
+    "title": "Keep a Curiosity List",
+    "details": "Write down things you want to explore.",
+    "icon": "❓"
   }
 ]
